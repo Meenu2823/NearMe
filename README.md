@@ -75,6 +75,29 @@ productive place as leaders in the global community by offering our pupils a com
 </body>
 </html>
 ~~~
+### acebadminton.html:
+~~~
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="text-align: center; background-color: blanchedalmond;">
+    <h1 style="font-family: 'Times New Roman', Times, serif; color: darkgoldenrod;"><b>ACE BADMINTON ACADEMY</b></h1>
+    <h2 style="font-family: 'Times New Roman', Times, serif;color: darkgoldenrod; ">(Mugalivakkam,Chennai)</h2>
+    <p style="font-style: italic;color: darkgreen;font-size: 25px;">At ACE BADMINTON ACADEMY, their vision is to provide an education which
+nurtures intellectual curiosity and which is challenging and fun, balancing academic excellence with fulfilment of individual potential in
+the arts and sports. Create a badminton community that is friendly, supportive, encouraging and competitive.No matter what their age or
+background, will have an opportunity to reach their potential.</p>
+    <p style="font-style: italic;color: darkgreen;font-size: 25px;">They are committed to providing exceptional coaching and ensuring that
+every players is satisfied with their game. Their team is always available to answer any questions you may have and help you find the
+perfect gear for your needs.They offer monthly membership and hourly slot bookings. With flexible timings. Kids coaching available by former 
+TN State veterans Champion Mr. Francis Thomas </p>
+</body>
+</html>
+~~~
 
 ## OUTPUT
 ![image](https://github.com/Meenu2823/NearMe/assets/139416219/0fda1acb-036a-4660-b641-44be2e64e7e9)
