@@ -53,9 +53,6 @@ Execute the programs and publish them.
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
 </head>
 <body style="text-align: center;background-color: darkslateblue;color: wheat;">
     <h1 style="font-family: 'Times New Roman', Times, serif;"><b>MKM HIGHER SECONDARY SCHOOL</b></h1>
@@ -98,6 +95,78 @@ TN State veterans Champion Mr. Francis Thomas </p>
 </body>
 </html>
 ~~~
+### McKingstown.html:
+~~~
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body style="text-align: center;background-color: black;color: gold">
+    <h1 style="font-family: 'Times New Roman', Times, serif;"><b>McKingstown</b></h1>
+    <h2 style="font-family: 'Times New Roman', Times, serif;">(Men's Grooming at Madhanandhapuram)</h2>
+    <p style="font-style: italic;color: silver;font-size: 25px;">McKingstown Men's Grooming appears to be a brand catering to men's grooming
+needs, offering products and potentially barber services.Their lineup likely includes essentials like shaving cream and razors, as well as
+specialized items such as beard oils and skincare products.Emphasizing quality ingredients and keeping up with trends like beard grooming,
+they may target a modern, discerning clientele. With an online presence, they likely engage customers through e-commerce platforms and social
+media. Exploring customer reviews and their product range can offer insights into their reputation and unique offerings within the
+competitive men's grooming market.</p>
+</body>
+</html>
+~~~
+### asischool.html:
+~~~
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body style="text-align: center;background-color: lightseagreen;color: rgb(0, 88, 139);">
+    <h1 style="font-family: 'Times New Roman', Times, serif;"><b>ANAND SINGAPORE INTERNATIONAL SCHOOL(ASIS)</b></h1>
+    <h2 style="font-family: 'Times New Roman', Times, serif;">(Mugalivakkam,Chennai-600125)</h2>
+    <p style="font-style: italic;font-size: 25px;color: darkblue;">The Anand International School in Chennai (ASIS) is one of the best
+international schools in Chennai, which is formed from a partnership between one of Singapore's leading education groups, SIS Group of
+Schools, and the highly respected Kalasalingam and Anandam Ammal Charities.The SIS Group of Schools  is a premier chain of K-12
+(Pre-school to Grade 12) private international schools. Its mission is to bring the world’s best education system from Singapore to
+cities across the world.SIS was established in 1996, with the impetus provided by the then Ministers from the Singapore government as
+well as assistance from Singapore's premier school Raffles Institution. SIS is in a strategic partnership with the International
+Finance Corporation, IFC (World Bank) and has premier schools in Indonesia, Korea, Myanmar and now India. It is looking to expand into
+other cities.SIS students constantly perform well on the world stage. They have moved on to top universities in the world including the
+National University of Singapore, Oxford University, and Imperial College, London. Their participation in debates in Model United Nation
+conferences, in community work, in entrepreneurial projects, in sports and the performing arts has shown that SIS students are among the
+best out there.SIS is an award-winning school group, being named in 2019 by the Financial Times and the International Finance Corporation
+(World Bank) as a leader in education for its transformational work. The SIS Group is constantly invited to world conferences from Cape
+Town to San Francisco to share its success story for other schools to emulate.In India, SIS seeks to expand its presence through its
+investment and management arm, Cambrian. Cambrian’s main philosophy is to educate young people holistically by attending to their
+physical and intellectual growth and by incorporating international and Indian teaching and learning methodologies balanced with Indian
+and inter-cultural values.
+</body>
+</html>
+~~~
+### ss.html:
+~~~
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="text-align: center; background-color: rgb(64, 29, 14)">
+    <h1 style="font-family: 'Times New Roman', Times, serif; color: lightcoral"><b>SWAMY'S SCHOOL</b></h1>
+    <h2 style="font-family: 'Times New Roman', Times, serif;color: lightcoral;">(Porur,Chennai)</h2>
+    <p style="font-style: italic;color: darkgoldenrod;font-size: 25px;">Swamy's School was founded in 1995 and has successfully
+established itself as a premier educational institution in Chennai.The school is dedicated to nurturing the moral, spiritual,
+and ethical growth of our students.As a CBSE-affiliated institution, they offer a diverse and flexible approach to education.
+Their teaching methods go beyond the conventional. They prioritize individual attention and foster teamwork and leadership
+through group activities.We believe in making learning enjoyable, helping students discover their passions, and empowering
+them to pursue their dreams.</p>
+    <p style="font-style: italic;color: darkgoldenrod;font-size: 25px;">The inception of the School was in the year 1995,
+when Porur was a suburb. The school was started with classes LKG to V and it was named "Gitanjali". The building was
+inaugurated by Shri. Cho. Ramaswamy and Father Lawrence Sundaram of Loyola College
+    </p>
+</body>
+</html>
+~~~
+
 
 ## OUTPUT
 ![image](https://github.com/Meenu2823/NearMe/assets/139416219/0fda1acb-036a-4660-b641-44be2e64e7e9)
