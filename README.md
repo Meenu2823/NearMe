@@ -60,7 +60,18 @@ Execute the programs and publish them.
 <body style="text-align: center;background-color: darkslateblue;color: wheat;">
     <h1 style="font-family: 'Times New Roman', Times, serif;"><b>MKM HIGHER SECONDARY SCHOOL</b></h1>
     <h2 style="font-family: 'Times New Roman', Times, serif;">(Mugalivakkam,Chennai-600125)</h2>
-    <p style="font-style: italic;font-size: 25px;"><b>M.K.M. Matriculation Higher Secondary School</b> is a partial realisation of the vision of <b>Shri. S. Kalyanasundaram Pillai Educational Trust</b> which is a registered body providing the best possible education for the children of all class and society.The founder trustee <b>Mr. K. Muthusamy</b> also runs a school at his native village Udayathoor in Tirunelveli district.M.K.M. Matriculation Higher Secondary School was founded in June 2003 with classes from L.K.G. to std VI. The school is affiliated under the Matriculation system, under the Board of the Matriculation Schools, Tamilnadu. The school is a co-educational institution and has been achieving excellent results year after year. It has been upgraded to Higher Secondary, catering the needs of education, knowledge and discipline of the children since 2009.Located in the beautiful residential locality of Mugalivakkam, Chennai, the school has a three- storeyed building which houses the kindergarten, primary and secondary classes. The school has a total strength of 900 students and a faculty of more than 60 teaching and 20 admin and auxiliary staff.The school is well known for its discipline, character formation and excellence in academics, sports, intra-curricular and extracurricular activities.The school is set in the path of progress and today can boast of the appreciation of not only various guests who have presided over our school celebration, but also from numerous pioneering educationists.The school aims to educate the youth to take their productive place as leaders in the global community by offering our pupils a comprehensive education from kindergarten to class 12th.</p>
+    <p style="font-style: italic;font-size: 25px;"><b>M.K.M. Matriculation Higher Secondary School</b> is a partial realisation of the vision of
+ <b>Shri. S. Kalyanasundaram Pillai Educational Trust</b> which is a registered body providing the best possible education for the children of
+all class and society.The founder trustee <b>Mr. K. Muthusamy</b> also runs a school at his native village Udayathoor in Tirunelveli district.
+M.K.M. Matriculation Higher Secondary School was founded in June 2003 with classes from L.K.G. to std VI. The school is affiliated under the
+Matriculation system, under the Board of the Matriculation Schools, Tamilnadu. The school is a co-educational institution and has been achieving
+excellent results year after year. It has been upgraded to Higher Secondary, catering the needs of education, knowledge and discipline of the
+children since 2009.Located in the beautiful residential locality of Mugalivakkam, Chennai, the school has a three- storeyed building which houses
+ the kindergarten, primary and secondary classes. The school has a total strength of 900 students and a faculty of more than 60 teaching and 20
+admin and auxiliary staff.The school is well known for its discipline, character formation and excellence in academics, sports, intra-curricular
+and extracurricular activities.The school is set in the path of progress and today can boast of the appreciation of not only various guests who
+have presided over our school celebration, but also from numerous pioneering educationists.The school aims to educate the youth to take their
+productive place as leaders in the global community by offering our pupils a comprehensive education from kindergarten to class 12th.</p>
 </body>
 </html>
 ~~~
